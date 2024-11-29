@@ -6,6 +6,11 @@ Description
 Objective :
 The purpose of this project is to classify wine types using the Wine dataset from UCI Machine Learning Repository. The dataset contains information about different wine samples, categorized into three classes, based on their chemical attributes. The Decision Tree Classifier algorithm is employed to build a predictive model, with the goal of accurately determining the wine class based on these features.
 
+Goal :
+1. Accurately classify wine samples into one of three wine categories.
+2. Provide interpretable insights into the most significant chemical attributes influencing the classification.
+3. Evaluate the model's performance and determine its effectiveness in real-world applications involving similar datasets.
+
 Results :
 The Decision Tree Classifier was trained and evaluated on the dataset. Key results include:
 1. The accuracy of the model on the test data, indicating its performance in predicting unseen samples.
