@@ -20,6 +20,6 @@ Results :
 Conclusion :
 The Decision Tree Classifier demonstrated effective performance on the Wine dataset, achieving a high accuracy in classifying wine samples. The model provided interpretable results, highlighting the chemical properties critical to wine classification. This study reaffirms the applicability of decision trees in solving classification problems, particularly when feature importance and model explainability are crucial.
 
-If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : azizhabibrahim@gmail.com and https://www.linkedin.com/in/mhabibr02/
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email : azizhabibrahim@gmail.com and LinkedIn : https://www.linkedin.com/in/mhabibr02/
 
 #Python #DatasetWineRecognition #SKLearn #DecisionTreeClassifier
