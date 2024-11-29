@@ -1,6 +1,6 @@
 # Project-DSF-33.0-Data-Science-Dibimbing
 # Klasifikasi Dataset Wine Menggunakan Algoritma Visualisasi Decision Tree
-Source Dataset form SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset
+Source Dataset from SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset
 
 Description
 Objective :
