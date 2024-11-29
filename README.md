@@ -3,6 +3,7 @@
 Source Dataset from SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset
 
 Description
+
 Objective :
 The purpose of this project is to classify wine types using the Wine dataset from UCI Machine Learning Repository. The dataset contains information about different wine samples, categorized into three classes, based on their chemical attributes. The Decision Tree Classifier algorithm is employed to build a predictive model, with the goal of accurately determining the wine class based on these features.
 
