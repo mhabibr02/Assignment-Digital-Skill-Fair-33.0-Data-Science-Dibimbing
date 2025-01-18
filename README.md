@@ -1,6 +1,7 @@
 # Assignment Digital Skill Fair 33.0 Data Science Dibimbing
 ## Klasifikasi Dataset Wine Menggunakan Algoritma Visualisasi Decision Tree
-Source Dataset from SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset
+Source Dataset from SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset <br>
+Source Code from Colab : https://colab.research.google.com/drive/1IbMQIQbGNMEA6OiNMTYtuuTYYFCEAzIz?usp=sharing
 
 Description
 
