@@ -1,14 +1,10 @@
 # Assignment Digital Skill Fair 33.0 Data Science Dibimbing
 ## Klasifikasi Dataset Wine Menggunakan Algoritma Visualisasi Decision Tree
-
+### Description
+Digital Skill Fair 33.0 by [Dibimbing](https://dibimbing.id/) is an intensive and immersive event organized by Dibimbing, designed to equip participants with in-demand Data Science skills. This event brings together aspiring data professionals and industry experts in a collaborative learning environment, combining theory with hands-on projects to enhance real-world understanding.
 <p align="center">
 <img src="/Certificate/Sertifikat Digital Skill Fair 33 Data Science.jpg" width="80%" height="30%">
 </p>
-
-Source Dataset from SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset <br>
-Source Code from Colab : https://colab.research.google.com/drive/1IbMQIQbGNMEA6OiNMTYtuuTYYFCEAzIz?usp=sharing
-
-Description
 
 ### Objective
 The purpose of this project is to classify wine types using the Wine dataset from UCI Machine Learning Repository. The dataset contains information about different wine samples, categorized into three classes, based on their chemical attributes. The Decision Tree Classifier algorithm is employed to build a predictive model, with the goal of accurately determining the wine class based on these features.
@@ -25,6 +21,10 @@ The purpose of this project is to classify wine types using the Wine dataset fro
    
 ### Conclusion
 The Decision Tree Classifier demonstrated effective performance on the Wine dataset, achieving a high accuracy in classifying wine samples. The model provided interpretable results, highlighting the chemical properties critical to wine classification. This study reaffirms the applicability of decision trees in solving classification problems, particularly when feature importance and model explainability are crucial.
+
+### Source
+Source Dataset from SKLearn : https://scikit-learn.org/1.5/datasets/toy_dataset.html#wine-recognition-dataset <br>
+Source Code from Colab : https://colab.research.google.com/drive/1IbMQIQbGNMEA6OiNMTYtuuTYYFCEAzIz?usp=sharing
 
 ### Remark
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](mailto:azizhabibrahim@gmail.com) and 
